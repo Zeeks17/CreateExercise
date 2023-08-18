@@ -1,4 +1,9 @@
 new stuff
 
 Hi Ezekiel
+<<<<<<< HEAD
 I am the best branch maker and this branch is SSJ2
+=======
+
+Let's clash!!!!
+>>>>>>> 524d8f8113a4ec3bcf3a6839c592f43e376ef97e
